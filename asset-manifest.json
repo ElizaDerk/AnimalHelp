@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AnimalHelp/static/css/main.53593734.css",
-    "main.js": "/AnimalHelp/static/js/main.d30139bf.js",
+    "main.js": "/AnimalHelp/static/js/main.04f9c655.js",
     "static/js/787.82ea8e80.chunk.js": "/AnimalHelp/static/js/787.82ea8e80.chunk.js",
     "static/media/lovely-pet-portrait-isolated.jpg": "/AnimalHelp/static/media/lovely-pet-portrait-isolated.30c1c2e16c886c36140d.jpg",
     "static/media/14.png": "/AnimalHelp/static/media/14.3ca3e80578f7fd764343.png",
@@ -24,11 +24,11 @@
     "static/media/animal.png": "/AnimalHelp/static/media/animal.b40aa75d7bbfe3fa0bc3.png",
     "index.html": "/AnimalHelp/index.html",
     "main.53593734.css.map": "/AnimalHelp/static/css/main.53593734.css.map",
-    "main.d30139bf.js.map": "/AnimalHelp/static/js/main.d30139bf.js.map",
+    "main.04f9c655.js.map": "/AnimalHelp/static/js/main.04f9c655.js.map",
     "787.82ea8e80.chunk.js.map": "/AnimalHelp/static/js/787.82ea8e80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53593734.css",
-    "static/js/main.d30139bf.js"
+    "static/js/main.04f9c655.js"
   ]
 }
