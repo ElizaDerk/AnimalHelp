@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/AnimalHelp/static/css/main.d3c24994.css",
+    "main.js": "/AnimalHelp/static/js/main.d30139bf.js",
+    "static/js/787.82ea8e80.chunk.js": "/AnimalHelp/static/js/787.82ea8e80.chunk.js",
+    "static/media/lovely-pet-portrait-isolated.jpg": "/AnimalHelp/static/media/lovely-pet-portrait-isolated.30c1c2e16c886c36140d.jpg",
+    "static/media/14.png": "/AnimalHelp/static/media/14.3ca3e80578f7fd764343.png",
+    "static/media/16.png": "/AnimalHelp/static/media/16.40f83f1cb9e4763e7eca.png",
+    "static/media/2.png": "/AnimalHelp/static/media/2.d8c7a2f1503440a47623.png",
+    "static/media/12.png": "/AnimalHelp/static/media/12.30e8ab5af9ebd16d5236.png",
+    "static/media/13.png": "/AnimalHelp/static/media/13.80fb687eb534427e4689.png",
+    "static/media/SL-100420-36140-29.jpg": "/AnimalHelp/static/media/SL-100420-36140-29.87a0bb2c8600b82f5f6c.jpg",
+    "static/media/15.png": "/AnimalHelp/static/media/15.d5149e9b1a93412e084a.png",
+    "static/media/3.jpg": "/AnimalHelp/static/media/3.0ad838b16a33e30dd540.jpg",
+    "static/media/4.jpg": "/AnimalHelp/static/media/4.db80b945ababfe185861.jpg",
+    "static/media/8.jpg": "/AnimalHelp/static/media/8.36aa4863e61fe6c4eee9.jpg",
+    "static/media/5.jpg": "/AnimalHelp/static/media/5.c2a4355b282a683dbdf9.jpg",
+    "static/media/9.jpg": "/AnimalHelp/static/media/9.5ee8034ff0091b876575.jpg",
+    "static/media/10.jpg": "/AnimalHelp/static/media/10.6f36ad97e06e6df17cd0.jpg",
+    "static/media/7.jpg": "/AnimalHelp/static/media/7.7746478af44f95acaedd.jpg",
+    "static/media/6.jpg": "/AnimalHelp/static/media/6.636e9bfc84e44fea3c7f.jpg",
+    "static/media/dogs.jpg": "/AnimalHelp/static/media/dogs.7d6ffeb32f92b1cbad50.jpg",
+    "static/media/vecteezy_bubbles-speech_1195232.png": "/AnimalHelp/static/media/vecteezy_bubbles-speech_1195232.afe70e85c396816790ac.png",
+    "static/media/animal.png": "/AnimalHelp/static/media/animal.b40aa75d7bbfe3fa0bc3.png",
+    "index.html": "/AnimalHelp/index.html",
+    "main.d3c24994.css.map": "/AnimalHelp/static/css/main.d3c24994.css.map",
+    "main.d30139bf.js.map": "/AnimalHelp/static/js/main.d30139bf.js.map",
+    "787.82ea8e80.chunk.js.map": "/AnimalHelp/static/js/787.82ea8e80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c24994.css",
+    "static/js/main.d30139bf.js"
+  ]
+}
